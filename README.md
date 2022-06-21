@@ -1,2 +1,2 @@
 # Exs VisualG
- All exercises I made from VisualG 
+ Exercícios feitos no VisualG
